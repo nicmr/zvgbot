@@ -10,7 +10,8 @@ The program will automatically generate a .docx from a user-defined template and
 
 ## Download and installation
 Please have a look at the [releases page](https://github.com/nicmr/zvgbot/releases) and select the newest release available for your plaftform. Supported platforms are `Windows` and `Linux`.
-Installation instructions are available in both English and German
+
+Installation instructions are available in both English and German.
 
 
 ## Source code
