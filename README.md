@@ -8,8 +8,9 @@ You will be able to set different filter criteria such as region, reason for the
 
 The program will automatically generate a .docx from a user-defined template and input the relevant data of the matching auctions, leaving you with a letter ready to ship to the potential customer
 
-## Download
+## Download and installation
 Please have a look at the [releases page](https://github.com/nicmr/zvgbot/releases) and select the newest release available for your plaftform. Supported platforms are `Windows` and `Linux`.
+Installation instructions are available in both English and German
 
 
 ## Source code
